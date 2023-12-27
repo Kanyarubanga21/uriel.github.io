@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(255, 210, 85);
+}
+h1{
+    background: rgb(253, 221, 131);
+    font-family:sans-serif;
+    font-weight: lighter;  
+    color: rgb(255, 255, 255);
+}
+i{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
