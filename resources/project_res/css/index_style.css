@@ -1,5 +1,5 @@
 body{
-    background-image: src('resources/project_res/image/bg.jpeg');
+    background-image: src('resources/project_res/image/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
