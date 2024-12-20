@@ -1,7 +1,11 @@
 body {
-    background-image: url('resources/project_res/image/bg.jpg');
+    background-image: url('../image/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
 }
 h1 {
     background: rgb(253, 221, 131);
@@ -11,5 +15,6 @@ h1 {
 }
 i {
     font-family: sans-serif;
+    background-color: rgb(253, 221, 131);
     color: rgb(255, 255, 255);
 }
