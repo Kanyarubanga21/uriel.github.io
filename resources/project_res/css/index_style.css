@@ -1,15 +1,15 @@
-body{
-    background-image: src('resources/project_res/image/bg.jpg');
+body {
+    background-image: url('resources/project_res/image/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
-h1{
+h1 {
     background: rgb(253, 221, 131);
-    font-family:sans-serif;
+    font-family: sans-serif;
     font-weight: lighter;  
     color: rgb(255, 255, 255);
 }
-i{
+i {
     font-family: sans-serif;
     color: rgb(255, 255, 255);
 }
