@@ -1,5 +1,7 @@
 body{
-    background-color:rgb(255, 210, 85);
+    background-image: src('resources/project_res/image/bg.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 h1{
     background: rgb(253, 221, 131);
